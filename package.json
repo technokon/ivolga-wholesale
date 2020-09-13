@@ -1,0 +1,24 @@
+{
+  "name": "wholesale",
+  "version": "1.0.0",
+  "description": "whole sale ivolga",
+  "main": "startServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node startServer",
+    "docs": "node startDocs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technokon/ivolga-wholesale.git"
+  },
+  "author": "Emil Iakoupov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technokon/ivolga-wholesale/issues"
+  },
+  "homepage": "https://github.com/technokon/ivolga-wholesale#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
