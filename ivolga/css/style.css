@@ -284,25 +284,25 @@ hr.title-divider {
 }
 
 #clients {
-	background-image: url("http://placehold.it/1400x800");
+	background-image: url("/img/graySweater.jpg");
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 
 #works-top {
-	background-image: url("http://placehold.it/1400x800");
+	background-image: url("/img/cozyDress.jpg");
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 
 #gallery-top {
-	background-image: url("http://placehold.it/1400x800");
+	background-image: url("/img/whiteSuit.jpg");
 	-webkit-background-size: cover;
 	background-size: cover;
 }
 
 #team-top {
-	background-image: url("http://placehold.it/1400x800");
+	background-image: url("/img/coatBaige.jpg");
 	-webkit-background-size: cover;
 	background-size: cover;
 }
