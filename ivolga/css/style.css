@@ -1048,3 +1048,9 @@ footer h4 {
 		-webkit-transform: scale(1.0);
 	}
 }
+
+/* registration form */
+div.mce_inline_error {
+	background: none!important;
+	color: hotpink!important;
+}
