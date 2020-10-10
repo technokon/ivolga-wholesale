@@ -277,7 +277,7 @@ hr.title-divider {
 /* ==== 5) Intro & Sections Headers ==== */
 
 #intro {
-	background-image: url("/img/redDress.jpg");
+	background-image: url("/img/dog.png");
 	-webkit-background-size: cover;
 	background-size: cover;
 	min-height: 445px;
